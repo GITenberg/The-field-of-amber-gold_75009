@@ -1,0 +1,25 @@
+_repo: The-field-of-amber-gold_75009
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Neal, William Bigelow
+    gutenberg_agent_id: '57771'
+    url: http://www.gutenberg.org/2009/agents/57771
+description: ''
+gutenberg_issued: '2025-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75009'
+language: en
+pgterms:marc905: 20241220021829neal
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aChicago, IL :$bThe Consolidated Magazines Corporation, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The field of amber gold
+url: http://www.gutenberg.org/ebooks/75009
