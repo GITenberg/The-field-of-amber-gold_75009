@@ -1,11 +1,16 @@
 _repo: The-field-of-amber-gold_75009
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75009-h/images/cover.jpg
 creator:
   author:
     agent_name: Neal, William Bigelow
     gutenberg_agent_id: '57771'
     url: http://www.gutenberg.org/2009/agents/57771
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75009#The-field-of-amber-gold
 gutenberg_issued: '2025-01-01'
 gutenberg_type: Text
 identifiers:
